@@ -84,7 +84,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
     - You don’t have to handle precision
     - You don’t have to handle the length modifiers
 ## 7. The big print gives and the small print takes away
-    - Handle the following flag characters for non-custom conversion specifiers:
+    - Handle the following flag charactes for non-custom conversion specifiers:
     - +
     - space
     - #
